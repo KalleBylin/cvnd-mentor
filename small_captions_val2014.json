@@ -1,0 +1,131 @@
+{
+    "info": {
+        "description": "COCO 2014 Dataset",
+        "url": "http://cocodataset.org",
+        "version": "1.0",
+        "year": 2014,
+        "contributor": "COCO Consortium",
+        "date_created": "2017/09/01"
+    },
+    "images": [
+        {
+            "license": 3,
+            "file_name": "COCO_val2014_000000391895.jpg",
+            "coco_url": "http://images.cocodataset.org/val2014/COCO_val2014_000000391895.jpg",
+            "height": 360,
+            "width": 640,
+            "date_captured": "2013-11-14 11:18:45",
+            "flickr_url": "http://farm9.staticflickr.com/8186/8119368305_4e622c8349_z.jpg",
+            "id": 391895
+        },
+        {
+            "license": 4,
+            "file_name": "COCO_val2014_000000522418.jpg",
+            "coco_url": "http://images.cocodataset.org/val2014/COCO_val2014_000000522418.jpg",
+            "height": 480,
+            "width": 640,
+            "date_captured": "2013-11-14 11:38:44",
+            "flickr_url": "http://farm1.staticflickr.com/1/127244861_ab0c0381e7_z.jpg",
+            "id": 522418
+        }
+    ],
+    "licenses": [
+        {
+            "url": "http://creativecommons.org/licenses/by-nc-sa/2.0/",
+            "id": 1,
+            "name": "Attribution-NonCommercial-ShareAlike License"
+        },
+        {
+            "url": "http://creativecommons.org/licenses/by-nc/2.0/",
+            "id": 2,
+            "name": "Attribution-NonCommercial License"
+        },
+        {
+            "url": "http://creativecommons.org/licenses/by-nc-nd/2.0/",
+            "id": 3,
+            "name": "Attribution-NonCommercial-NoDerivs License"
+        },
+        {
+            "url": "http://creativecommons.org/licenses/by/2.0/",
+            "id": 4,
+            "name": "Attribution License"
+        },
+        {
+            "url": "http://creativecommons.org/licenses/by-sa/2.0/",
+            "id": 5,
+            "name": "Attribution-ShareAlike License"
+        },
+        {
+            "url": "http://creativecommons.org/licenses/by-nd/2.0/",
+            "id": 6,
+            "name": "Attribution-NoDerivs License"
+        },
+        {
+            "url": "http://flickr.com/commons/usage/",
+            "id": 7,
+            "name": "No known copyright restrictions"
+        },
+        {
+            "url": "http://www.usa.gov/copyright.shtml",
+            "id": 8,
+            "name": "United States Government Work"
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 391895,
+            "id": 770337,
+            "caption": "A man with a red helmet on a small moped on a dirt road. "
+        },
+        {
+            "image_id": 391895,
+            "id": 771687,
+            "caption": "Man riding a motor bike on a dirt road on the countryside."
+        },
+        {
+            "image_id": 391895,
+            "id": 772707,
+            "caption": "A man riding on the back of a motorcycle."
+        },
+        {
+            "image_id": 391895,
+            "id": 776154,
+            "caption": "A dirt path with a young person on a motor bike rests to the foreground of a verdant area with a bridge and a background of cloud-wreathed mountains. "
+        },
+        {
+            "image_id": 391895,
+            "id": 781998,
+            "caption": "A man in a red shirt and a red hat is on a motorcycle on a hill side."
+        },
+        {
+            "image_id": 350491,
+            "id": 391895,
+            "caption": "A cow on a hill top looking for something to eat"
+        },
+        {
+            "image_id": 522418,
+            "id": 681330,
+            "caption": "A woman wearing a net on her head cutting a cake. "
+        },
+        {
+            "image_id": 522418,
+            "id": 686718,
+            "caption": "A woman cutting a large white sheet cake."
+        },
+        {
+            "image_id": 522418,
+            "id": 688839,
+            "caption": "A woman wearing a hair net cutting a large sheet cake."
+        },
+        {
+            "image_id": 522418,
+            "id": 693204,
+            "caption": "A woman marking a cake with the back of a chef's knife. "
+        },
+        {
+            "image_id": 522418,
+            "id": 693159,
+            "caption": "there is a woman that is cutting a white cake"
+        }
+    ]
+}
